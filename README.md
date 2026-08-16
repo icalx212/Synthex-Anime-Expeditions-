@@ -49,6 +49,8 @@ Follow the instructions shown inside the editor and use your configured hotkeys 
 
 ## Supported Resolutions
 
+Use 1920x1080 for the best experience
+
 AE Macro includes multi-resolution support.
 
 For the best experience, make sure Roblox and your display settings are configured correctly.
